@@ -57,7 +57,7 @@ Pastikan terminal MT5 terbuka, sudah login, dan tombol **Algo Trading** aktif.
 
 ## Pasang di Claude Desktop / Claude Code
 
-`claude_desktop_config.json` (salinan siap pakai: [`claude_desktop_config.example.json`](claude_desktop_config.example.json) — ganti `C:\\path\\ke\\...` dengan path folder Anda):
+`claude_desktop_config.json` (salinan siap pakai: [`claude_desktop_config.example.json`](claude_desktop_config.example.json) — ganti `C:\path\ke\...` dengan path folder Anda):
 
 ```json
 {
