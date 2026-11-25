@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mt5-trading": {
+      "command": "C:\\path\\ke\\agus\\mcp-server-trading\\.venv\\Scripts\\mt5-trading-mcp.exe",
+      "env": {
+        "MT5_TRADING_ENABLED": "false",
+        "MT5_MAX_LOT": "0.5",
+        "MT5_SYMBOL_WHITELIST": "XAUUSD"
+      }
+    }
+  }
+}
